@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamManager", "TeamManager\TeamManager.csproj", "{0260F4BE-170F-46A8-8EBA-709B6B962F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePlayer", "CreatePlayer\CreatePlayer.csproj", "{7F120FA2-1B06-4DE8-A881-E714250B35F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0260F4BE-170F-46A8-8EBA-709B6B962F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0260F4BE-170F-46A8-8EBA-709B6B962F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0260F4BE-170F-46A8-8EBA-709B6B962F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0260F4BE-170F-46A8-8EBA-709B6B962F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F120FA2-1B06-4DE8-A881-E714250B35F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F120FA2-1B06-4DE8-A881-E714250B35F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F120FA2-1B06-4DE8-A881-E714250B35F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F120FA2-1B06-4DE8-A881-E714250B35F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881527B9-04B4-42B1-9DA0-4B78E0DC7E6D}
+	EndGlobalSection
+EndGlobal
